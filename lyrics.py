@@ -8,7 +8,7 @@ from PIL import Image, ImageTk
 import tkinter as tk
 
 # Genius APIトークン
-GENIUS_API_KEY = "GxrmoW6Miet-99SfD73FkMRPJqR8dXZ7r7-iCBEnEgiRvCCzI-ziqprODnQ2aSFR"
+GENIUS_API_KEY = "your token"
 
 # Genius APIのセットアップ
 genius = lyricsgenius.Genius(GENIUS_API_KEY)
